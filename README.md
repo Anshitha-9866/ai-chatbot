@@ -5,6 +5,8 @@
 - Django
 - Openai api
 
+## UI
+<img width="196" alt="image" src="https://github.com/AbdulHadi806/chatbot/assets/113926529/3302c9c2-20c9-4421-a668-d280d0755b6a">
 
 ## How to Run the Project
 
@@ -56,10 +58,6 @@ Ensure you have Python and pip installed on your system. Then, follow these step
 
 
 These instructions will set up both the frontend and backend components of the project, allowing you to run the Chatbot application seamlessly.
-
-## UI
-<img width="196" alt="image" src="https://github.com/AbdulHadi806/chatbot/assets/113926529/3302c9c2-20c9-4421-a668-d280d0755b6a">
-
 
 ## About Me:
 
