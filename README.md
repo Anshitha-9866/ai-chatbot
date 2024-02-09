@@ -1,4 +1,4 @@
-<img width="337" alt="image" src="https://github.com/AbdulHadi806/chatbot/assets/113926529/caa58095-496c-4454-9f1f-3f0c29ac14ec"># Chatbot
+# Chatbot
 
 ## Technologies used:
 - ReactJS
